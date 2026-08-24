@@ -1,0 +1,21 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Microsoft Office temporary files
+~$*
+
+# Empty requirements file - currently not used
+requirements.txt
+
+# Logs
+logs/
+
+# Windows system files
+desktop.ini
+
+# data
+data/ 
