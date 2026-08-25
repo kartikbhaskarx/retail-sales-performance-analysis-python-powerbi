@@ -55,16 +55,7 @@ sales_performance_analysis/
 ├── dashboard/
 │   └── sales_performance(tcs).pbix
 │
-├── data/
-│   ├── analytics/
-│   ├── clean/
-│   ├── raw/
-│   └── semantic_model/
-│
 ├── image/
-│
-├── logs/
-│   └── pipeline.log
 │
 ├── notebooks/
 │   ├── 01_data_quality_assesment_&_preparation.ipynb
@@ -99,8 +90,8 @@ sales_performance_analysis/
 │   ├── logger.py
 │   └── validation.py
 │
-├── README.md
-└── requirements.txt
+├── gitignore
+└── README.md
 ```
 
 ---
@@ -164,11 +155,11 @@ A comprehensive assessment was performed on the raw dataset before any transform
 
 ### Executive Overview
 
-![Executive Overview Dashboard](image/executive_overview.png)
+![Executive Overview Dashboard](image/Executive_Overview.png)
 
 ### Customer & Marketing Insights
 
-![Customer & Marketing Dashboard](image/customer_and_marketing.png)
+![Customer & Marketing Dashboard](image/Customer_and_Marketing.png)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
